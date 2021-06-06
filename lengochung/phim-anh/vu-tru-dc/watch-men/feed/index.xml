@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Watchmen	</title>
+	<atom:link href="http://localhost/myproject/wordpress/lengochung/phim-anh/vu-tru-dc/watch-men/feed/" rel="self" type="application/rss+xml" />
+	<link>/lengochung/phim-anh/vu-tru-dc/watch-men/</link>
+	<description>Cùng xem WordPress của Hưng có gì nhé...</description>
+	<lastBuildDate>Sat, 05 Jun 2021 04:24:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: test_role		</title>
+		<link>/lengochung/phim-anh/vu-tru-dc/watch-men/#comment-10</link>
+
+		<dc:creator><![CDATA[test_role]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 04:24:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11#comment-10</guid>
+
+					<description><![CDATA[spam aaaaaaaaaaaaaaaaa]]></description>
+			<content:encoded><![CDATA[<p>spam aaaaaaaaaaaaaaaaa</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: test_role		</title>
+		<link>/lengochung/phim-anh/vu-tru-dc/watch-men/#comment-9</link>
+
+		<dc:creator><![CDATA[test_role]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 04:10:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11#comment-9</guid>
+
+					<description><![CDATA[aaaaaaaaaaaaaaaaaaaa spam]]></description>
+			<content:encoded><![CDATA[<p>aaaaaaaaaaaaaaaaaaaa spam</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: test_role		</title>
+		<link>/lengochung/phim-anh/vu-tru-dc/watch-men/#comment-8</link>
+
+		<dc:creator><![CDATA[test_role]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 04:06:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11#comment-8</guid>
+
+					<description><![CDATA[spam]]></description>
+			<content:encoded><![CDATA[<p>spam</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: test_role		</title>
+		<link>/lengochung/phim-anh/vu-tru-dc/watch-men/#comment-7</link>
+
+		<dc:creator><![CDATA[test_role]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 03:06:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=11#comment-7</guid>
+
+					<description><![CDATA[test_role đã đến đây!!!]]></description>
+			<content:encoded><![CDATA[<p>test_role đã đến đây!!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
